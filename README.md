@@ -150,7 +150,7 @@ Com todos os dados calculados nas camadas anteriores, a query externa faz dois c
 ## 🌐 Dashboard Online
 
 Acesse o dashboard em produção aqui:
-👉 **[Link do Dashboard](http://localhost:8501/)**
+👉 **[Link do Dashboard](https://dashmilk.streamlit.app/)**
 
 ---
 
